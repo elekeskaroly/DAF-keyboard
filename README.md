@@ -1,4 +1,4 @@
-# DAF 2020 TERMINA -keyboard Arduino adaptation
+# DAF 2020 TERMINAL -keyboard Arduino adaptation
 DAF TERMINAL Keyboard USB connection to PC with arduino pro micro (Leonardo)
 
 The DAF 2020 was a Romanian Computer Terminal, with graphic dispay and a qwerty keyboard.
